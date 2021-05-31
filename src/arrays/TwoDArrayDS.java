@@ -28,13 +28,13 @@ class Result {
 
         Integer mHourGlass = null;
 
-        for(int i =0; i <lEnd; i++)
+        for(int i =0; i <= lEnd; i++)
         {
-            for(int ii =0; ii <cEnd; ii++)
+            for(int ii =0; ii <= cEnd; ii++)
             {
                 int sHourGlass = 0;
 
-                for(int j =ii; j < i+3; j++)
+                for(int j =ii; j < ii+3; j++)
                 {
                     sHourGlass += arr.get(i).get(j);
                     sHourGlass += arr.get(i+2).get(j);
