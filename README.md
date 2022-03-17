@@ -1,7 +1,6 @@
 # Happy coding 
 
-Hello, 
-This is Sabah, 
-My Solution to coding challenges.
-Work in progress...
+Hello,  <br>
+This is Sabah,  <br>
+My Solution to coding challenges. Work in progress...
 
